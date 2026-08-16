@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+torch
+statsmodels
+jupyter
+# IntegrAO: install the exact version/commit used for the manuscript analysis.
