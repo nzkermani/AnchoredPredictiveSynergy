@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local/private data and results
+data/
+results/
+*.pkl
+*.pickle
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Never commit governed participant-level exports
+private/
+secrets/
